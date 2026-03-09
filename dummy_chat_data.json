@@ -1,0 +1,32 @@
+[
+    {
+        "sender": "Friend",
+        "text": "Hey bro how are you?",
+        "risk_score": 10,
+        "classification": "NORMAL"
+    },
+    {
+        "sender": "Bank Support",
+        "text": "I am from your bank please send OTP to verify account",
+        "risk_score": 85,
+        "classification": "OTP_PHISHING"
+    },
+    {
+        "sender": "Unknown Contact",
+        "text": "Invest 50,000 today and get 2x return",
+        "risk_score": 90,
+        "classification": "INVESTMENT_SCAM"
+    },
+    {
+        "sender": "Friend",
+        "text": "If you care about me send money urgently, I am stranded!",
+        "risk_score": 75,
+        "classification": "URGENCY_MANIPULATION"
+    },
+    {
+        "sender": "Unknown Contact",
+        "text": "Click this link to verify your account: http://scam.url",
+        "risk_score": 95,
+        "classification": "LINK_PHISHING"
+    }
+]

@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+sentence-transformers
+faiss-cpu
+pandas
+numpy
