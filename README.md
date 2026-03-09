@@ -1,0 +1,1 @@
+# AI-Scam-Manipulation-Detector
